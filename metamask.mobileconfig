@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>PayloadContent</key>
+    <array>
+        <dict>
+            <key>FullScreen</key>
+            <true/>
+            <key>Icon</key>
+            <data>
+                iVBORw0KGgoAAAANSUhEUgAAAOEAAADhCAMAAAAJbSJIAAABQVBMVEX////2hRt2PRbkdhvNYRbidhvArZ7XwbMWFhYjNEf2gQL3t4lwOhbzgxvmeBsAAgfHtqh+cmnjbwD/ihsLExZOLhnUaBgAAADtfhxuORbZbRnkdBNuLQDKXhbiawDcbxpzNwdxNABqJABtLADSYhPTvrC8Yhr69/UZMki8p5f33MzRbBqQSxh7QBeGRhf2fAAKMUncpYHwtY7tqHn76+Doi0WMX0ObUBj0x6n88urMaRmRZ07v6uatWRmYcl2wXRq2m4zcz8jn39n61Lr3pmrifS7gjlbZt6GCSSOPVi26VQDsiDqFUzLxv6DqnmnnjEykgGyvjHZiCQD1nlz2kDv1lUahVihDPEBQPTwyNkO+XBp6SjJmRDhxSDSqYixeQDi/bSuPVzQ2IRcADBmai4F0aGE+OjeTg3lVT0lCPTkrIyCZwFrLAAAT+ElEQVR4nO2dd3vbyLXGSUIQJZmEueBemRQlUp0iVa1iFYuWJUUuUbF9d+N128TJbrK5+/0/wJ0CgDODKWeAkcvz6P0jT9ZEmR/OO2cqoELhTne6053u5FLdFw93v3YZHGh3++WZ4qfawtxfLw+6X7Q4rtU93/vr3EJP8evj2VJzvx3u9L9XyG5/JwwHzVLpSvH7fKlUqmyshu2L7e/RrbvbF+3W6kYFUcwfS4+oTZewKsuNVhjufW9uPdgLwyBYrhCGOblNH82SX5FT/cBrhe2b78et/Z122PI9f79JEWYfyY46jgCJUwPP81pt/7twK3Gn7/sBdSgNoiybRiaNnIoRUSDDV9eHX7zINjo8eBWGHuLzYocSTcts+mR2eAByqkcYMeSz8y9ebqj6N2GIw+czDlXa9HiuxKqyfkQRsVuDb9Ktu9tBu+URPuTQ9QpXfolNWZPSMC4HMaMXtvcOvi23Ju70qUOFwstsypmUhnHNTxCRW1vfkFv7N37kTgLocQ5V2JQ09yJi6WiISKrkzrfg1t1t9Li9hC/tUKJ50aYpk1KnngQsI3br9deFRO5shwweAjxJBZBURNGmj1ImTTs1cetX6wn0b1qMOwlfZ00SQCyhb9pdkB8mOpVCBjv9r4C3u3PBuZMAHpUUgKUFvm8qNyl16sATGZFbL75wT+Dw4LIt4qEcM5A6lNr0KXe
+            </data>
+            <key>IsRemovable</key>
+            <true/>
+            <key>Label</key>
+            <string>MetaMask</string>
+            <key>PayloadDescription</key>
+            <string>Adds MetaMask to the home screen.</string>
+            <key>PayloadDisplayName</key>
+            <string>MetaMask</string>
+            <key>PayloadIdentifier</key>
+            <string>com.metamask.webclip</string>
+            <key>PayloadOrganization</key>
+            <string>MetaMask</string>
+            <key>PayloadType</key>
+            <string>com.apple.webClip.managed</string>
+            <key>PayloadUUID</key>
+            <string>9ff60538-f9aa-4e99-bc45-58b4a18813c7</string>
+            <key>PayloadVersion</key>
+            <integer>1</integer>
+            <key>Precomposed</key>
+            <true/>
+            <key>URL</key>
+            <string>https://metamask.io</string>
+        </dict>
+    </array>
+    <key>PayloadDisplayName</key>
+    <string>MetaMask</string>
+    <key>PayloadIdentifier</key>
+    <string>com.metamask.configuration</string>
+    <key>PayloadOrganization</key>
+    <string>MetaMask</string>
+    <key>PayloadType</key>
+    <string>Configuration</string>
+    <key>PayloadUUID</key>
+    <string>9ff60538-f9aa-4e99-bc45-58b4a18813c7</string>
+    <key>PayloadVersion</key>
+    <integer>1</integer>
+</dict>
+</plist>
